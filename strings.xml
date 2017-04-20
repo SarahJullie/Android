@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Quiz Sarah</string>
+
+    <string name="pergunta1">É correto afirmar: "É possível criar uma nova activity clicando com o botão direito no projeto > New > Activity"?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+
+    <string name="pergunta2">O spinner do android assemelha-se à qual elemento html?</string>
+    <string name="select">Select</string>
+    <string name="radio">Radio</string>
+    <string name="checkbox">Checkbox</string>
+    <string name="div">Div</string>
+    <string name="span">Span</string>
+
+    <string name="pergunta3">Qual é o arquivo .xml que contém as strings no android studio?</string>
+    <string name="strings">strings.xml</string>
+    <string name="dimens">dimens.xml</string>
+    <string name="styles">styles.xml</string>
+    <string name="colors">colors.xml</string>
+    <string name="mipmap">mipmap.xml</string>
+
+    <string name="pergunta4">Qual dos comandos abaixo insere um aviso em um determinado componente Android?</string>
+    <string name="setError">setError</string>
+    <string name="Trim">Trim</string>
+    <string name="insertError">insertError</string>
+    <string name="defineError">defineError</string>
+    <string name="checkError">checkError</string>
+
+    <string name="pergunta5">Qual dos comandos abaixo remove os espaços existentes antes e depois de uma string?</string>
+    <string name="onUpdate">onUpdate</string>
+    <string name="rdStwrt">rdStwrt</string>
+    <string name="noSpace">string.NoSpace(string)</string>
+    <string name="fart">finishAndRemoveTask()</string>
+
+    <string name="Responder">Responder</string>
+</resources>
